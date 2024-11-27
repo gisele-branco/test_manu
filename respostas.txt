@@ -5,3 +5,5 @@ C. Os três componentes do GIT são: Working tree ou Working Directory, Stanging
 E. é a operação e junção de 2 branchs que reconcilia as varias alterações feitas numa coleção de ficheiros
 
 F. git status
+
+H. Historico de todos os commits feitos no arquivo meu_script.py
