@@ -4,3 +4,5 @@ Os adm tem o panorama geral das tarefas
 working tree, index e repositório
 
 E. Merge é uma operação fundamental de junção de 2 branches que reconcilia as várias alterações feitas numa coleção de ficheiros, os tipos de merge que existem são automático e manual, sendo automático é processado apenas pelo software e a manual é necessário ação do utilizador para perceber as mudanças a aplicar.
+
+F. git status
