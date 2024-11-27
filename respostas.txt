@@ -1,3 +1,5 @@
 B. Os elementos da equipa conhecem o trabalho dos outros, ou seja as alterações feitas por qualquer membro da equipa são visíveis para todos, garantindo maior transparência no desenvolvimento, os administradores tem o panorama geral das tarefas dos programadores, ou seja, obtém uma visão clara do progresso das tarefas, com base nos commits e no histórico de versões. 
 
 C. Os três componentes do GIT são: Working tree ou Working Directory, Stanging Area ou Index, Repository ou .git directory
+
+E. é a operação e junção de 2 branchs que reconcilia as varias alterações feitas numa coleção de ficheiros
